@@ -1,4 +1,4 @@
-##Concept
+# Concept
 - Website
 - "Database" for copy-paste-text for twitch, later other platforms
 - so no pasta gets ever lost
